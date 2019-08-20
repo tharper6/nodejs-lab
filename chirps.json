@@ -1,1 +1,7 @@
-[{"title":"Baltimore Ravens","text":"NFL team"},{"title":"Tennessee Vols","text":"College FB team"},{"title":"Boston Red Sox","text":"MLB team"},{"title":"Boston Celtics","text":"NBA team"},{"title":"Boston Bruins","text":"NHL team"}]
+[
+  { "title": "Baltimore Ravens", "text": "NFL team" },
+  { "title": "Tennessee Vols", "text": "College FB team" },
+  { "title": "Boston Red Sox", "text": "MLB team" },
+  { "title": "Boston Celtics", "text": "NBA team" },
+  { "title": "Boston Bruins", "text": "NHL team" }
+]
